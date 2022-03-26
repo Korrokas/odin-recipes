@@ -1,0 +1,18 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightgray;
+}
+
+button {
+    padding: 1em;
+}
+
+img {
+    width: 300px;
+    height: auto;
+    border: solid;
+}
+
+div h1 {
+    margin-left: 4em;
+}
